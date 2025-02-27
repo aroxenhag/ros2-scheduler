@@ -1,2 +1,2 @@
-# ros2-timer-boilerplate
-ROS 2 timer boilerplate
+# ros2-scheduler
+ROS 2 scheduler boilerplate
